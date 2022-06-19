@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "wordpress": "^1.4.1"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "23.3.0"
+  },
+  "scripts": {
+    "build:scripts": "wp-scripts build",
+    "start-build": "wp-scripts start"
+  }
+}
